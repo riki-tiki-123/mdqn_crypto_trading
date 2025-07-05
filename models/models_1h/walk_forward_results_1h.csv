@@ -1,0 +1,2 @@
+fold,train_profit,test_profit,train_sharpe,test_sharpe,train_winrate,test_winrate,train_trades,test_trades,train_size,test_size
+1,-17086.8041742898,0,-0.17482804699704113,0.0,0.30153066989445204,0.0,646057,0,16000,1000

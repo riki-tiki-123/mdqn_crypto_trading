@@ -10,21 +10,13 @@ venv/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
 
-# Data & model weights
-*.h5
-*.hdf5
-*.ckpt
-*.pth
-*.pt
-*.joblib
-*.pkl
-*.npz
-models/
-*.onnx
+# Data & model weights (track these now)
+# models/
+# data/
+# *.csv
 
-# Large CSVs, logs, experiment outputs
-logs/
-*.csv
+# Ignore results (DO NOT track results dir or its CSVs)
+results/
 
 # IDE files
 *.swp
@@ -37,5 +29,3 @@ logs/
 Thumbs.db
 ehthumbs.db
 Desktop.ini
-
-# (add others as needed)
